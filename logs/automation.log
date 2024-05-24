@@ -1,0 +1,28 @@
+17:46:34.160 [main] INFO  testCases.AccountRegistration - *** starting registration***
+17:46:34.524 [main] INFO  testCases.AccountRegistration - **clicking on my account menu**
+17:36:20.308 [main] INFO  testCases.AccountRegistration - *** starting registration***
+17:36:20.970 [main] INFO  testCases.AccountRegistration - **clicking on my account menu**
+17:36:21.405 [main] INFO  testCases.AccountRegistration - ***clicking on register***
+17:36:25.228 [main] INFO  testCases.AccountRegistration - **entering all fields**
+17:45:28.400 [main] INFO  testCases.AccountRegistration - *** starting registration***
+17:45:28.869 [main] INFO  testCases.AccountRegistration - **clicking on my account menu**
+17:45:29.431 [main] INFO  testCases.AccountRegistration - ***clicking on register***
+17:45:33.296 [main] INFO  testCases.AccountRegistration - **entering all fields**
+07:22:22.313 [main] INFO  testCases.AccountRegistration - *** starting registration***
+07:22:22.636 [main] INFO  testCases.AccountRegistration - **clicking on my account menu**
+07:22:25.763 [main] INFO  testCases.AccountRegistration - ***clicking on register***
+07:22:33.322 [main] INFO  testCases.AccountRegistration - **entering all fields**
+07:22:59.534 [main] INFO  testCases.AccountRegistration - ***account registration completed***
+07:23:26.728 [main] INFO  testCases.AccountRegistration - *** starting registration***
+07:23:26.734 [main] INFO  testCases.AccountRegistration - **clicking on my account menu**
+07:23:26.909 [main] INFO  testCases.AccountRegistration - ***clicking on register***
+07:23:28.457 [main] INFO  testCases.AccountRegistration - **entering all fields**
+07:31:50.923 [main] INFO  testCases.AccountRegistration - *** starting registration***
+07:31:51.064 [main] INFO  testCases.AccountRegistration - **clicking on my account menu**
+07:31:51.266 [main] INFO  testCases.AccountRegistration - ***clicking on register***
+07:31:55.871 [main] INFO  testCases.AccountRegistration - **entering all fields**
+07:38:15.480 [main] INFO  testCases.AccountRegistration - *** starting registration***
+07:38:15.690 [main] INFO  testCases.AccountRegistration - **clicking on my account menu**
+07:38:15.812 [main] INFO  testCases.AccountRegistration - ***clicking on register***
+07:38:19.850 [main] INFO  testCases.AccountRegistration - **entering all fields**
+07:38:32.180 [main] INFO  testCases.AccountRegistration - ***account registration completed***
